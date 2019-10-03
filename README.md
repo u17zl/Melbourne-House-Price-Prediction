@@ -1,4 +1,4 @@
-# Melbourne Housing Market
+# Melbourne House Price Prediction
 ## Service Aim
 In this group-based project, we are aiming to build a machine learning model to analyse the Melbourne housing clearance data and make prediction for our users who would buy new real estate in a few years. User interface would be shown on a webpage.  
 
